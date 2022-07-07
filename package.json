@@ -13,7 +13,7 @@
     "@react-native-community/datetimepicker": "^2.5.0",
     "base-64": "^0.1.0",
     "firebase": "~7.9.0",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-native-modal-datetime-picker": "^8.7.1"
